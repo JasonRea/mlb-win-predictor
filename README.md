@@ -16,7 +16,14 @@ This repository contains a machine learning model to predict MLB team wins I bui
 
 - **csv**: raw csv files from lahman db
 - **images**: evaluation reports and plots
-- **src**
+- **src**:
   - `prediction.ipynb` - main workspace for this project
 - **requirements.txt**: project dependencies
 - **README.md**: this documentation file
+
+## Accuracy Improvements
+
+Currently measuring model accuracy within plus/minus 5 wins.
+
+- (6/5/25) - 60%
+- (7/5/25) - 74%

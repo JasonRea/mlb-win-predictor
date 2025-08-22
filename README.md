@@ -23,7 +23,7 @@ This repository contains a machine learning model to predict MLB team wins I bui
 
 ## Accuracy Improvements
 
-Currently measuring model accuracy within plus/minus 5 wins.
+Currently measuring model accuracy within plus/minus 5 wins. Currently 3x better than pythagorean win percentage.
 
 - (6/5/25) - 60%
 - (7/5/25) - 74%
